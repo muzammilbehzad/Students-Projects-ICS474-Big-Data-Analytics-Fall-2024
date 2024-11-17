@@ -47,7 +47,7 @@ cd 3D-Printer-Error-Detection-Final
 
 ### 2. Access the Folder
 ```bash
-cd 3D-Printer-Error-Detection-Final
+cd Project_s202043800_s202032320_s202043720
 ```
 
 ## The outputs are already shown in the Juypter Notebook. We decided not to include the dataset itself since it is quite large. 
