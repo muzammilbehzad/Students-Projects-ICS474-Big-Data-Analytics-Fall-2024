@@ -39,6 +39,11 @@ Ensure that you have **Python 3.8 or later** installed.
 
    Open the `.ipynb` file in the Jupyter Notebook environment and run the cells sequentially.
 
+4.  **Data SetUp**:
+
+There will be two csv file one will be the original data set (CAR DETAILS FROM CAR DEKHO [Original]) ,and other one will be modified. Just take a copy and remove word [Original]
+
+
 ### Usage
 
 The notebook is divided into several sections:
