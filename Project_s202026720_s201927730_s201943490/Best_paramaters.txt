@@ -1,0 +1,2 @@
+Best parameters: {'randomforestregressor__max_depth': None, 'randomforestregressor__min_samples_leaf': 1, 'randomforestregressor__min_samples_split': 2, 'randomforestregressor__n_estimators': 200}
+Validation MSE after tuning: 2.67
