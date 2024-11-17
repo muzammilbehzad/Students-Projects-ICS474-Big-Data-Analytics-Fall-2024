@@ -7,7 +7,7 @@ This project is focused on detecting 3D printing errors by classifying nozzle im
 - **Classify Extrusion Occurrence**: Predict whether extrusion occurred based on images of the 3D printer nozzle.
 - **Model Development**: Implement and train the **ARCNN (Attention-based Residual Convolutional Neural Network)** to classify nozzle images as either "extrusion occurred" or "no extrusion."
 - **Data Preprocessing**: Clean and prepare the image dataset, including resizing, normalization, and augmentation if necessary.
-- **Model Training & Evaluation**: Train the ARCNN model on the preprocessed dataset and evaluate its performance using metrics such as accuracy, precision, recall, and F1 score.
+- **Model Training & Evaluation**: Train the ARCNN model on the preprocessed dataset and evaluate its performance using metrics such as accuracy
 - **Prediction & Visualization**: Make predictions on new nozzle images and visualize model performance with metrics and confusion matrices.
 
 
