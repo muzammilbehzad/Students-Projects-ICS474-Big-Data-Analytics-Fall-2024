@@ -45,6 +45,7 @@ The dataset helps analyze electricity consumption patterns at household level to
 - [**`ICS474 Project Notebook- 202021840- 202036960 .ipynb`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/tree/main/Project_202021840_202036960/Project.ipynb): Contain all codes, figures, results for the project
 - [**`ICS474 Project Report- 202021840- 202036960.pdf`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/tree/main/Project_202021840_202036960/ICS474%20Project%20Report-%20202021840-%20202036960.pdf): This is a report that has the procedure followed in this project with the found results and some figures
 - [**`ICS474 Project Presentation- 202021840- 202036960.pptx`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/tree/main/Project_202021840_202036960/ICS474%20Project%20Presentation-%20202021840-%20202036960.pptx): This is the presentation of the project that was conducted in class on Monday 11/18/2024
+- [**`Acron analysis.ipynb`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/tree/main/Project_202021840_202036960/Acron%20analysis.ipynb): This is an extra analysis we did for the Acron data. It is added since there are some intresting resaults that were found. (We asked Dr.Muzzamil before uploading this file in class on Monday 11/18/2024) 
 
 ---
 
