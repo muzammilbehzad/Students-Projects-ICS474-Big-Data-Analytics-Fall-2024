@@ -1,23 +1,38 @@
-# Uber_Dataset
+# Uber Trip Distance Prediction - ICS 474 Project  
 
-This is Our Project submission for ICS 474
+This project uses machine learning models to predict trip distances (`MILES`) based on features such as trip start and stop locations, category, and purpose. The Gradient Boosting Regressor was selected for its high performance in handling complex relationships within the dataset. The project includes data preprocessing, exploratory data analysis, and model training and evaluation.  
 
-Uber: Uber is a multinational transportation network company that operates through a mobile app, connecting passengers with drivers for on-demand rides. With a vast network of drivers and a user-friendly interface, Uber offers a convenient and reliable transportation service worldwide.
+---
 
-Notebook Work: In this notebook, we have analyzed a dataset containing information about Uber rides. The dataset includes details such as start and end dates, category, start and stop locations, miles traveled, and purpose of the ride. We have performed various tasks such as data cleaning, exploratory data analysis, and modeling using machine learning algorithms. Through visualizations and statistical analysis, we have gained insights into the patterns and trends present in the data.
+## Project Overview  
+This project analyzes an Uber dataset to predict trip distances using various features. Key steps include data cleaning, exploratory data analysis, feature engineering, and model selection. The final Gradient Boosting Regressor model achieved an R² score of 0.94, demonstrating strong predictive capabilities.  
 
-Link Dataset: https://www.kaggle.com/code/goyaladi/uber-data-analysis-predictions
+---
 
-   - **Prerequisites**: Python and pip should be installed
-   - **Installing jupyter notebook**:
-```bash
-pip install jupyter
-```
-   - **Navigate to File**:
-```bash
-cd Project_s201943050_s201969370_s201918130
-```
-   - **Run the ics474_project.ipynb**:
-```bash
-jupyter notebook ics474_project.ipynb
-```
+## Libraries and Packages Used  
+- **pandas**: Data manipulation and preprocessing  
+- **numpy**: Numerical computations  
+- **matplotlib** and **seaborn**: Data visualization  
+- **scikit-learn**: Machine learning algorithms and utilities  
+
+---
+
+## Installation  
+Ensure that you have Python 3.8 or later installed.  
+
+1. Clone this repository and navigate into the project directory.  
+
+2. Install the required packages:  
+   ```bash  
+   pip install pandas numpy matplotlib seaborn scikit-learn 
+   ```
+3. Run the project notebook:
+    ```bash
+    jupyter notebook ics474_project.ipynb
+    ```
+
+## Authors  
+**ICS 474**: Fares Bahamdan, Abdullah Altassan, Abdulaziz Almesfer
+
+  
+ 
