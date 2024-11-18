@@ -43,7 +43,7 @@ This project focuses on classifying Uber trips as either "Business" or "Personal
 ## Data Preprocessing
 1. **Missing Data Handling**:
    - Critical columns: Dropped rows with missing values.
-   - Non-critical columns: Imputed or left as-is.
+   - Non-critical columns: Imputed.
 
 2. **Encoding**:
    - Label encoding for `CATEGORY`.
@@ -80,8 +80,21 @@ The model effectively differentiates between Business and Personal trips.
 3. **Outlier Detection**: Box plots for `MILES`.
 
 ---
+## Dependencies
 
+- **Python** 
+
+### Libraries:
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computations.
+- **Scikit-learn**: For machine learning algorithms and model evaluation.
+- **Matplotlib**: For data visualization.
+
+---
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+
+Clone the repository.  
+Ensure all dependencies are installed.  
+Run the main script:  
+`python Project.py`
+
