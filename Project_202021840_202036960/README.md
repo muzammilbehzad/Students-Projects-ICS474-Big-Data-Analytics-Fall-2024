@@ -40,8 +40,11 @@ The dataset helps analyze electricity consumption patterns at household level to
 ## Main Code Files and Their Purposes
 
 
-- **`ICS474 Project Notebook- 202021840- 202036960 .ipynb`**: Contain all codes, figures, results for the project.
-- **`ICS474 Project Report- 202021840- 202036960.pdf`**: This is a report that has the procedure followed in this project with the found results and some figures
+
+
+- [**`ICS474 Project Notebook- 202021840- 202036960 .ipynb`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/tree/main/Project_202021840_202036960/Project.ipynb): Contain all codes, figures, results for the project
+- [**`ICS474 Project Report- 202021840- 202036960.pdf`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/tree/main/Project_202021840_202036960/ICS474%20Project%20Report-%20202021840-%20202036960.pdf): This is a report that has the procedure followed in this project with the found results and some figures
+- [**`ICS474 Project Presentation- 202021840- 202036960.pptx`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/tree/main/Project_202021840_202036960/ICS474%20Project%20Presentation-%20202021840-%20202036960.pptx): This is the presentation of the project that was conducted in class on Monday 11/18/2024
 
 ---
 
