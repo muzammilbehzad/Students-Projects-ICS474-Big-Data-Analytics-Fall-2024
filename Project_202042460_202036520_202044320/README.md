@@ -15,11 +15,11 @@ all codes are in the folder and each got it is purpose and use as a comment so t
 
 
 Instructions for running the code:
-make sure to use vscode (do not run it on juypter or any online ide) /n
-make sure to install all libaires needed (using pip install) /n
-make sure to download the dataset (csv file) and put the path of it in the code (each person will have diffrent path) /n
-run each code for each question one by one and seperatly (do not run all of them once and do not mix two question codes at once) /n
-if you face any problem (all codes with outputs are shown in the report file, use the word file for better quality for the photos) /n
+make sure to use vscode (do not run it on juypter or any online ide) 
+make sure to install all libaires needed (using pip install) 
+make sure to download the dataset (csv file) and put the path of it in the code (each person will have diffrent path) 
+run each code for each question one by one and seperatly (do not run all of them once and do not mix two question codes at once) 
+if you face any problem (all codes with outputs are shown in the report file, use the word file for better quality for the photos) 
 
 our dataset:
 https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset
