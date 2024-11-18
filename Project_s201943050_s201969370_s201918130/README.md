@@ -7,3 +7,17 @@ Uber: Uber is a multinational transportation network company that operates throu
 Notebook Work: In this notebook, we have analyzed a dataset containing information about Uber rides. The dataset includes details such as start and end dates, category, start and stop locations, miles traveled, and purpose of the ride. We have performed various tasks such as data cleaning, exploratory data analysis, and modeling using machine learning algorithms. Through visualizations and statistical analysis, we have gained insights into the patterns and trends present in the data.
 
 Link Dataset: https://www.kaggle.com/code/goyaladi/uber-data-analysis-predictions
+
+   - **Prerequisites**: Python and pip should be installed
+   - **Installing jupyter notebook**:
+```bash
+pip install jupyter
+```
+   - **Navigate to File**:
+```bash
+cd Project_s201943050_s201969370_s201918130
+```
+   - **Run the ics474_project.ipynb**:
+```bash
+jupyter notebook ics474_project.ipynb
+```
