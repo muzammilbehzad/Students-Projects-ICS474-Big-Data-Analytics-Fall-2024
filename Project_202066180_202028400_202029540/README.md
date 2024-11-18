@@ -70,19 +70,9 @@ The performance across various features and thresholds was assessed, showing tha
 
 ## Final Model Selection
 
-After evaluating various models, **Random Forest** emerged as the best performing model for fraud detection. It balances **precision** and **recall** effectively and addresses class imbalance using its ensemble nature.
+After evaluating various models, **Voting Classifier** which ensembles The decision tree, random forest, and logistic regression emerged as the best option as it yielded the highest score in all the metrics.
 
-### Why Random Forest?
-- **Performance**: High precision, recall, and F1-score for fraud detection.
-- **Complexity**: While more complex than Decision Trees, it mitigates overfitting and handles intricate relationships in the data.
-- **Generalizability**: Random Forests provide a robust and reliable solution, making them ideal for fraud detection tasks.
 
-## Visualizations
-
-Visualizations are used throughout the project to understand data distribution, feature importance, and model performance:
-- **Data Distribution**: Shows the transaction amount distribution and flags outliers.
-- **Feature Importance**: Highlights the key features impacting the fraud detection model.
-- **Model Performance**: Visualizes the model's performance across different thresholds.
 
 ## Requirements
 
