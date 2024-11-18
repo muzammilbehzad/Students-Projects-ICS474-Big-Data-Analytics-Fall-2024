@@ -1,5 +1,8 @@
 This a group project for a Big Data Analytics (ICS-474) course at King Fahd University of Petroleum and Minerals
 
+The presentation slides for this project is
+[Uber Analysis Presentation](Uber%20Analysis%20Project-Slides.pptx)
+
 Group Members:
 
     •	Hashem Almubarak (ID: 2020122260)
