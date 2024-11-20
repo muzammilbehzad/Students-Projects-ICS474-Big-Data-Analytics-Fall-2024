@@ -14,29 +14,29 @@ The primary objective of this project is to develop a predictive model that accu
 The dataset contains detailed records of credit card transactions, including numerical and categorical features. It provides a rich source of information for fraud detection analysis.
 
 **Columns:**
-trans_date_trans_time: Timestamp of the transaction.
-cc_num: Credit card number (hashed or anonymized).
-merchant: Merchant or store where the transaction occurred.
-category: Type of transaction (e.g., grocery, entertainment).
-amt: Amount of the transaction.
-first: First name of the cardholder.
-last: Last name of the cardholder.
-gender: Gender of the cardholder.
-street: Address details of the cardholder.
-city: Address details of the cardholder.
-state: Address details of the cardholder.
-zip: Address details of the cardholder.
-lat: Geographical coordinates of the transaction.
-long: Geographical coordinates of the transaction.
-city_pop: Population of the city where the transaction occurred.
-job: Occupation of the cardholder.
-dob: Date of birth of the cardholder.
-trans_num: Unique transaction number.
-unix_time: Unix timestamp of the transaction.
-merch_lat: Geographical coordinates of the merchant.
-merch_long: Geographical coordinates of the merchant.
-is_fraud: Indicator of whether the transaction is fraudulent.
-merch_zipcode: Geographical coordinates of the merchant.
+- trans_date_trans_time: Timestamp of the transaction.
+- cc_num: Credit card number (hashed or anonymized).
+- merchant: Merchant or store where the transaction occurred.
+- category: Type of transaction (e.g., grocery, entertainment).
+- amt: Amount of the transaction.
+- first: First name of the cardholder.
+- last: Last name of the cardholder.
+- gender: Gender of the cardholder.
+- street: Address details of the cardholder.
+- city: Address details of the cardholder.
+- state: Address details of the cardholder.
+- zip: Address details of the cardholder.
+- lat: Geographical coordinates of the transaction.
+- long: Geographical coordinates of the transaction.
+- city_pop: Population of the city where the transaction occurred.
+- job: Occupation of the cardholder.
+- dob: Date of birth of the cardholder.
+- trans_num: Unique transaction number.
+- unix_time: Unix timestamp of the transaction.
+- merch_lat: Geographical coordinates of the merchant.
+- merch_long: Geographical coordinates of the merchant.
+- is_fraud: Indicator of whether the transaction is fraudulent.
+- merch_zipcode: Geographical coordinates of the merchant.
 
 ---
 ## Main Code Files and Their Purpose
