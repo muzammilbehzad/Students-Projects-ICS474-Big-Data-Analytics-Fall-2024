@@ -40,22 +40,22 @@ play, chance creation, and defensive strategies.
 ## Main Code Files and Their Purposes
 
 
-- **`ICS474-project .ipynb`**: Contain all codes, figures, results for the project.
+- [**`ICS474-project .ipynb`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s202025400_s202034520_s202170070/ICS474-project.ipynb): Contain all codes, figures, and results for the project.
 
-- **`Project Report .pdf`**: This report outlines the procedures followed in the project, presents the findings, and includes relevant figures to illustrate the results.
-- 
-- **`ICS474-Presntation.pptx`**: This will breiflly shwos the presntation about our project.
+- [**`Project Report .pdf`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s202025400_s202034520_s202170070/Project%20Report.pdf): This report outlines the procedures followed in the project, presents the findings and includes relevant figures to illustrate the results.
+  
+- [**`ICS474-Presntation.pptx`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s202025400_s202034520_s202170070/ICS474-Presntation.pptx): This will briefly show the presentation about our project.
 
-- **`final_data .csv`**: contains all the necessary data for building the model. 
+- [**`final_data .csv`**](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s202025400_s202034520_s202170070/final_data.csv): contains all the necessary data for building the model. 
 ---
 
 ## Instructions for Running the Code
 
-1. **Download the all the csv , zip files data and the ipynb file to run the code** 
+1. **Download all the CSV, zip file data, and the ipynb file to run the code** 
 2. **Install the libraries used using the command in this README file** 
 3. **Run Jupyter Notebook**:
    - Follow the sequence of notebook
-   - Complete each cell in order to ensure the datasets are properly processed and models are trained.
+   - Complete each cell to ensure the datasets are properly processed and models are trained.
 ---
 
 ## Required Installations
