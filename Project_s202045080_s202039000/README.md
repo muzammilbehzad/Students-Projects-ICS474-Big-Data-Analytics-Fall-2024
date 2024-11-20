@@ -1,9 +1,19 @@
-You can check the report using [Final Report](ICS474_Project_FinalReport.pdf)
-
 
 # Uber Ride Analysis and Classification
 
 This repository contains the final project for the **ICS474: Big Data Analytics** course at King Fahd University of Petroleum and Minerals. The project focuses on analyzing an Uber dataset to classify rides as either "Business" or "Personal" using machine learning models. The work includes data exploration, preprocessing, modeling, and visualization, presented in a Jupyter Notebook.
+
+---
+
+## Final Report & Presentation
+
+For a detailed explanation of the methodology, results, and analysis, you can refer to the **Final Report**:  
+[Final Report](ICS474_Project_FinalReport.pdf)
+
+For a concise overview of the project methodology, results, and key insights, you can refer to the **Presentation Slides**:
+[Presentation Slides](Presintation.pptx)
+
+---
 
 ## Project Overview
 
@@ -67,15 +77,19 @@ The dataset used in this project is the **Uber dataset from Kaggle**, which incl
 ## How to Run the Project
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/Ali-Jaber1/KFUPM_ICS474.git
+   ```
 
 2. Install dependencies:
-
+   ```bash
    pip install -r requirements.txt
+   ```
 
 3. Open the Jupyter Notebook:
-
+   ```bash
    jupyter notebook FinalProject.ipynb
+   ```
 
 4. Follow the steps in the notebook to explore, preprocess, and model the data.
 
