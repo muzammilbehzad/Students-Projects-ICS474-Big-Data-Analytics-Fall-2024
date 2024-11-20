@@ -43,6 +43,8 @@ play, chance creation, and defensive strategies.
 - **`ICS474-project .ipynb`**: Contain all codes, figures, results for the project.
 
 - **`Project Report .pdf`**: This report outlines the procedures followed in the project, presents the findings, and includes relevant figures to illustrate the results.
+- 
+- **`ICS474-Presntation.pptx`**: This will breiflly shwos the presntation about our project.
 
 - **`final_data .csv`**: contains all the necessary data for building the model. 
 ---
