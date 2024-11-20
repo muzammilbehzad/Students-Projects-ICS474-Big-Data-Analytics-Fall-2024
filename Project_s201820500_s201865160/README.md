@@ -97,4 +97,9 @@ Clone the repository.
 Ensure all dependencies are installed.  
 Run the main script:  
 `python Project.py`
+---
+## project-presentation
+ICS-474-project-presentation
+[View the PowerPoint Presentation](ICS-474-project-presentation.pptx)
+
 
