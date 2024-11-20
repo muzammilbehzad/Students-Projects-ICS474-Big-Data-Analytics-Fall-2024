@@ -78,20 +78,25 @@ The dataset used in this project is the **Uber dataset from Kaggle**, which incl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ali-Jaber1/KFUPM_ICS474.git
+   git clone https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024.git
+   ```
+   
+2. Navigate to the project folder:
+   ```bash
+   cd Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/Project_s202045080_s202039000
    ```
 
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Open the Jupyter Notebook:
+4. Open the Jupyter Notebook:
    ```bash
    jupyter notebook FinalProject.ipynb
    ```
 
-4. Follow the steps in the notebook to explore, preprocess, and model the data.
+5. Follow the steps in the notebook to explore, preprocess, and model the data.
 
 ---
 
