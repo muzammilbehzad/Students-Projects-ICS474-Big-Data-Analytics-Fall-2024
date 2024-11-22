@@ -1,6 +1,6 @@
-# Soccer Data Analytics Project
+# Credit Cart Transaction Project
 
-This project analyzes a comprehensive soccer dataset to uncover patterns, predict outcomes, and evaluate player/team performance using machine learning techniques.
+This project analyzes a comprehensive credit card transaction dataset to uncover patterns to predict frauds in the transactions, and evaluate the performance using machine learning techniques.
 
 ---
 
@@ -17,23 +17,14 @@ This project analyzes a comprehensive soccer dataset to uncover patterns, predic
 
 ## Project Overview
 
-This project explores a soccer dataset using Python for data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning modeling. The ultimate goal is to predict player ratings and match outcomes and understand feature importance in these predictions.
+This project focuses on analyzing a dataset of credit card transactions using Python for data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning modeling. The goal is to detect fraud, classify transaction types, and analyze customer segmentation.
 
 ---
 
 ## Dataset Details
 
-- **Source**: SQLite database containing soccer data [Dataset Link](https://www.kaggle.com/datasets/hugomathien/soccer)
-- **Tables Used**:
-  - `Country`: Information about countries
-  - `League`: Details of soccer leagues
-  - `Match`: Match-level data, including scores and betting odds
-  - `Player`: Information about players
-  - `Player_Attributes`: Player performance metrics
-  - `Team`: Team-level data
-  - `Team_Attributes`: Team performance metrics
+- **Source**: SQLite database containing credit card transaction data [Dataset Link](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset)
 
----
 
 ## Tools and Libraries
 
@@ -41,7 +32,7 @@ This project explores a soccer dataset using Python for data preprocessing, expl
 - **Data Handling**: `pandas`, `numpy`, `sqlite3`
 - **Visualization**: `matplotlib`, `seaborn`
 - **Machine Learning**: `scikit-learn`
-- **Modeling**: `RandomForestRegressor`, `LinearRegression`
+- **Modeling**: `RandomForestRegressor`, `LinearRegression`, `xgboost`
 
 ### Techniques:
 - Missing data analysis and imputation
@@ -59,11 +50,11 @@ This project explores a soccer dataset using Python for data preprocessing, expl
 
 ### 5. Statistical Summary
 - **Method**: Generated descriptive statistics and medians for numerical features in all tables.
-- **Output**: Insights into feature distributions.
+- **Output**: Insights into customer and transaction behavior.
 
-### 6. Data Distribution Analysis
-- **Method**: Visualized distributions of numerical features (e.g., goals, player ages, height).
-- **Output**: Histograms and KDE plots.
+### 6. Fraud Detection
+- **Method**: Applied anomaly detection techniques (e.g., Isolation Forest).
+- **Output**: Identified potential fraudulent transactions.
 
 ### 7. Correlation Analysis
 - **Method**: Correlation matrix of relevant features using a heatmap.
@@ -74,12 +65,12 @@ This project explores a soccer dataset using Python for data preprocessing, expl
 - **Output**: Outlier summary with boundaries.
 
 ### 9. Handling Missing Data
-- **Method**: Imputed missing values using mean/mode strategies.
-- **Output**: Cleaned data saved to the database.
+- **Method**: Used k-means clustering to group customers by behavior.
+- **Output**: Segmentation for targeted marketing.
 
-### 10. Encoding Categorical Variables
-- **Method**: Applied one-hot and label encoding for categorical features.
-- **Output**: Encoded data saved to the database.
+### 10. Transaction Classification
+- **Method**: Trained supervised learning models like Random Forest and XGBoost.
+- **Output**:  Classification accuracy and feature importance analysis.
 
 ### 11. Feature Scaling
 - **Method**: Used `StandardScaler` for Z-score normalization of numerical features.
@@ -110,7 +101,7 @@ This project explores a soccer dataset using Python for data preprocessing, expl
 - **Output**: Detailed performance analysis.
 
 ### 18. Model Improvement
-- **Method**: Hyperparameter tuning with `RandomizedSearchCV` and `GridSearchCV`.
+- **Method**: Gusiian Framwork evaluation tuning with `XGBoost`.
 - **Output**: Improved model performance.
 
 ### 19. Validation
@@ -141,7 +132,7 @@ This project explores a soccer dataset using Python for data preprocessing, expl
    - Ensure you have Python 3.x installed.
    - Install the required libraries using the following command:
    ```
-   pip install pandas numpy matplotlib seaborn scikit-learn
+   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
    ```
 
 2. **Run Jupyter Notebook**:
@@ -155,6 +146,6 @@ This project explores a soccer dataset using Python for data preprocessing, expl
 
 ## Conclusion
 
-This project provides a detailed analysis of soccer data, including predictions, feature importance, and machine learning evaluations. By implementing data preprocessing, EDA, and model training, this project offers a comprehensive workflow for soccer analytics.
+This project delivers a comprehensive analysis of credit card transactions with actionable insights into fraud detection and customer segmentation. The workflow integrates robust data handling, EDA, and machine learning modeling, showcasing practical applications in financial analytics.
 
 ---
