@@ -1,0 +1,31 @@
+Instructions on How to Run the Code
+
+1. Prerequisites:
+   - Make sure you have Python 3.7 or higher installed.
+      - make sure you are using the right directory for the dataset
+
+2. Required Libraries:
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+   - scikit-learn
+   - imbalanced-learn
+
+3. Installing Required Libraries:
+   - Use the following command to install all libraries:
+     ```
+     pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+     ```
+
+4. Running the Code:
+   - Ensure the dataset file `credit_card_transactions.csv` is in the same directory as the script.
+   - Open your command prompt or terminal.
+   - Navigate to the folder where `fraud_detection.py` is saved.
+   - Run the script using:
+     ```
+     python fraud_detection.py
+     ```
+
+5. Notes:
+   - If you encounter any errors, ensure all libraries are installed and the dataset path is correct.

@@ -1,0 +1,16 @@
+List of Dependencies and Libraries Needed to Run the Code
+
+- Python Version: 3.7 or higher
+- https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data
+download the data set to use the code on it
+
+Required Libraries:
+- pandas: For data manipulation and analysis
+- numpy: For numerical operations
+- matplotlib: For creating visualizations
+- seaborn: For enhanced data visualization
+- scikit-learn: For machine learning models and tools
+- imbalanced-learn: For handling imbalanced datasets, specifically SMOTE
+
+Installation:
+- Install all libraries using pip:
