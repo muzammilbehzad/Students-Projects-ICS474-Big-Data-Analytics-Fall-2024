@@ -33,7 +33,7 @@ Ensure that you have Python 3.8 or later installed.
 
 ## Presentation
 
-For project Presentation, refer to the [Project Report](./Project-ics474.pdf).
+For project Presentation, refer to the [Project Presentation](./ICS-474-Project-Uber-Data-Analysis.pptx).
 
 ## Authors  
 **ICS 474**: Fares Bahamdan, Abdullah Altassan, Abdulaziz Almesfer
