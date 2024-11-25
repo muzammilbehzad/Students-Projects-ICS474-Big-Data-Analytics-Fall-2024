@@ -52,4 +52,7 @@ The notebook is divided into several sections:
 
 4. **Model Evaluation**:  
    - Evaluates the model on the test set.  
-   - Achieves a test accuracy of **93%** and a training accuracy of **99.89%**.  
+   - Achieves a test accuracy of **93%** and a training accuracy of **99.89%**.
+  
+## Presentation Link
+[Go to Presentation](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s201953470/ICS474%20-%20Project%20Presentation%20-%20Jawad%20Almuttawa%20-%20201953470.pptx)
