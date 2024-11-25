@@ -31,6 +31,10 @@ Ensure that you have Python 3.8 or later installed.
     jupyter notebook ics474_project.ipynb
     ```
 
+## Presentation
+
+For project Presentation, refer to the [Project Report](./Project-ics474.pdf).
+
 ## Authors  
 **ICS 474**: Fares Bahamdan, Abdullah Altassan, Abdulaziz Almesfer
 
