@@ -7,7 +7,7 @@ This project implements a machine learning model for detecting fraudulent transa
 - **Total Records**: 616,615
 - **Size**: 112.9+ MB
 - **Missing Values**: Only in merch_zipcode (93,225 missing)
-- **Class Distribution**: 0.37% fraudulent transactions
+- **Class Distribution**: 0.47% fraudulent transactions
 
 ### Key Features
 #### Transaction Information
