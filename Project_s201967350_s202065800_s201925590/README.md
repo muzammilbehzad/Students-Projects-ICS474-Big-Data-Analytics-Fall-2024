@@ -112,3 +112,6 @@ This project implements a machine learning model for detecting fraudulent transa
 - Model optimized for real-world fraud detection scenarios
 - Validation performed on original distribution data
 - Feature engineering focused on fraud-relevant patterns
+
+## Additional Resources
+For a detailed presentation of this project, please view our [slide deck](Presentation1.pptx).
