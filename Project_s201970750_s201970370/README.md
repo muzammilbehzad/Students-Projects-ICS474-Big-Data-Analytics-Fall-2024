@@ -63,13 +63,7 @@ python uber_analysis.py
 
 ## Model Evaluation Results
 
-### 1. **Linear Regression**:
-- **MAE**: X.XX
-- **MSE**: X.XX
-- **RMSE**: X.XX
-- **R² Score**: X.XX
-
-### 2. **Random Forest Regressor**:
+### **Random Forest Regressor**:
 - **MAE**: 4.91
 - **MSE**: 195.73
 - **RMSE**: 13.99
