@@ -136,3 +136,8 @@ To reproduce this project, follow these steps:
 - Kaggle Dataset: *European Soccer Database*  
 - Betting Odds Documentation: *Football Data Notes*  
 
+---
+
+## Presentation
+https://www.canva.com/design/DAGXcID0YHc/Fyon9Bn43QQ8TVtY3YlaLw/view?utm_content=DAGXcID0YHc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
