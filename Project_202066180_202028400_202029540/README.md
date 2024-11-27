@@ -66,7 +66,7 @@ We analyzed the **feature importance** using the Random Forest and Decision Tree
 
 ## Model Performance
 
-The performance across various features and thresholds was assessed, showing that **Random Forest** performed consistently well across all thresholds for the feature `amt` (transaction amount).
+The performance across various features and thresholds was assessed, showing that **Voting Classifier** performed consistently well across all thresholds for the feature `amt` (transaction amount).
 
 ## Final Model Selection
 
