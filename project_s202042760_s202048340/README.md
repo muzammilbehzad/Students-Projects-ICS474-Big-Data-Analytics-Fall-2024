@@ -38,3 +38,7 @@ Project Notes
 Ensure data integrity by following the preprocessing steps.
 Modify the paths or data as needed to align with your dataset.
 Visualizations include titles, axis labels, and legends for clear interpretation.
+
+
+
+Link for PowerPoint Presentation : https://kfupmedusa-my.sharepoint.com/:p:/g/personal/s202042760_kfupm_edu_sa/Eaed_Y_4gVlFjZ4SgXQWai0BZ0uxQz3mpqCbxiKFsIvcHg?e=AuVgiz
