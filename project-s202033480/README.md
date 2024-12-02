@@ -16,6 +16,11 @@
 
 This project focuses on predicting energy consumption for buildings using the ASHRAE Great Energy Predictor III dataset from Kaggle. The dataset includes building information, weather data, and energy usage readings, enabling the development of a predictive model to forecast energy usage across diverse building types and conditions.
 
+## Download the PPT File
+
+You can download the presentation file using the link below:
+
+[Download the presentation](https://file.io/JoGzhzLDTziK)
 
 
 ## Dataset Description
