@@ -11,7 +11,7 @@ The primary objective of this project is to develop a predictive model that accu
 
 ---
 ## About the Dataset
-The dataset contains detailed records of credit card transactions, including numerical and categorical features. It provides a rich source of information for fraud detection analysis.
+The dataset contains detailed records of credit card transactions, including numerical and categorical features. It provides a rich source of information for fraud detection analysis. [Dataset Link](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset)
 
 **Columns:**
 - trans_date_trans_time: Timestamp of the transaction.
