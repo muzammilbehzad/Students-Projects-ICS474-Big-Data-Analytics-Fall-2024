@@ -40,11 +40,13 @@ The dataset contains detailed records of credit card transactions, including num
 
 ---
 ## Main Code Files and Their Purpose
-### 1. MainCode.ipynb
+[### 1. MainCode.ipynb](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s202019400_s202024300_s202019600/MainCode.ipynb)
 A Jupyter Notebook containing all the code for data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
 Includes visualizations such as histograms, boxplots, and feature importance charts to understand the dataset and improve model interpretability.
-### 2. ICS474_Report.pdf
+[### 2. ICS474_Report.pdf](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s202019400_s202024300_s202019600/ICS474-Report.pdf)
 A comprehensive report outlining the project's objectives, data exploration process, key analysis findings, applied methodologies, and conclusions derived from the dataset.
+[### 3. ICS474-Presentation.pptx](https://github.com/muzammilbehzad/Students-Projects-ICS474-Big-Data-Analytics-Fall-2024/blob/main/Project_s202019400_s202024300_s202019600/ICS474-Presentation.pptx)
+Presentation of the project.
 
 ---
 ## Instructions for Running the Code
