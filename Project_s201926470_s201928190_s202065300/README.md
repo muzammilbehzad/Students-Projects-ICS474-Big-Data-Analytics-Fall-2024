@@ -1,5 +1,7 @@
 # Uber Data Analysis 🚗 🚕
 
+Presentation link: https://drive.google.com/file/d/1eQNwGAfFisHY41kZV4wa67WrCBFTBQSO/view?usp=sharing
+
 Uber is finding better ways to move and work. This project focuses on analyzing Uber trip data to gain insights into travel patterns, ride demand, and other trends.
 
 ## Project Objectives
